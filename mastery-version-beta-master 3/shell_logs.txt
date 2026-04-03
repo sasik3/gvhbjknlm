@@ -1,0 +1,500 @@
+   15  git remote -v
+   16  git clone https://github.com/cs429-sp2026/aqwesrdftgftdfghj.git
+   17  git clone https://github.com/cs429-sp2026/qwaesedrftghkj.git
+   18  make cheba
+   19  chmod -R 777  ./ref_sb
+   20  make cheba
+   21  make snarfs
+   22  make potbelly
+   23  gdb bin/sb
+   24  make potbelly
+   25  make cheba
+   26  git remote -v
+   27  r -i testcases/catdel.trace
+   28  run testcases/catdel.trace
+   29  bin/sb
+   30  bin/sb
+   31  -i bin/sb
+   32  run bin/sb
+   33  outputs/catdel.trace.out
+   34  bin/outputs/catdel.trace.out
+   35  outputs/catdel.trace.out
+   36  chmod -R 777 outputs/catdel.trace.out
+   37  outputs/catdel.trace.out
+   38  git add .
+   39  git commit
+   40  history > shell_logs.txt
+   41  git add .
+   42  git commit -m "finished"
+   43  git push
+   44  make cheba
+   45  chmod -R 777 ./ref_sb
+   46  make cheba
+   47  make snarfs
+   48  make potbelly
+   49  gdb bin/sb
+   50  make potbelly
+   51  make cheba
+   52  git add .
+   53  git commit -m "heyy"
+   54  git push
+   55  make stego
+   56  make stego
+   57  chmod -R ./ref_order
+   58  chmod -R 777 ./ref_order
+   59  make stego
+   60  make spinosaurus
+   61  make trike
+   62  gdb bin/orderlogs
+   63  make stego
+   64  gdb bin/orderlogs
+   65  make spinosaurus
+   66  make trike
+   67  gdb bin/orderlogs
+   68  make trike
+   69  make stego
+   70  make spinosaurus
+   71  make trike
+   72  gdb bin/orderlogs
+   73  make trike
+   74  make spinosaurus
+   75  make stego
+   76  git remote -v
+   77  outputs/all_new.out
+   78  chmod -R 777 outputs/all_new.out
+   79  outputs/all_new.out
+   80  make spinosaurus
+   81  make trike
+   82  gdb bin/orderlogs
+   83  make stego
+   84  history > shell_logs.txt
+   85  vim shell_logs.txt
+   86  git add .
+   87  git commit -m "finished done"
+   88  git push
+   89  rm -rf 
+   90  rf
+   91  make cheba
+   92  chmod -R 777 ./ref_sb
+   93  make cheba
+   94  make subway
+   95  make potbellys
+   96  make potbelly
+   97  gdb bin/sb
+   98  make snarfs
+   99  make subway
+  100  make potbellys
+  101  make potbelly
+  102  gdb bin/sb
+  103  make snarfs
+  104  make potbelly
+  105  gdb bin/sb
+  106  make chebas
+  107  make cheba
+  108  gdb bin/sb
+  109  make sbarfs
+  110  make snarfs
+  111  make cheba
+  112  make potbelly
+  113  gdb bin/sb
+  114  make snarfs
+  115  make potbelly
+  116  gdb bin/sb
+  117  make cheba
+  118  make snarfs
+  119  make potbelly
+  120  gdb bin/sb
+  121  make cheba
+  122  make snarfs
+  123  make potbelly
+  124  gdb sb
+  125  gdb bin/sb
+  126  make cheba
+  127  make snarfs
+  128  make potbelly
+  129  gdb bin/sb
+  130  make cheba
+  131  make cheba
+  132  make debug
+  133  make cheba
+  134  make snarfs
+  135  make potbelly
+  136  gdb bin/sb
+  137  make cheba
+  138  make cheba
+  139  make debug
+  140  make comp
+  141  make clean
+  142  make debug
+  143  gdb bin/a.out
+  144  make clean
+  145  make debug
+  146  make debug
+  147  make comp
+  148  chmod -R 777 ./ref.out
+  149  make comp
+  150  gdb bin/a.out
+  151  make comp
+  152  make clean
+  153  make debug
+  154  make comp
+  155  make debug
+  156  make comp
+  157  make debug
+  158  make comp
+  159  make debug
+  160  make comp
+  161  make clean
+  162  make debug
+  163  make clean
+  164  make comp
+  165  gdb bin/a.out
+  166  make debug
+  167  make clean
+  168  make debug
+  169  gdb bin/a.out
+  170  make comp
+  171  make debug
+  172  make comp
+  173  make debug
+  174  make comp
+  175  make debug
+  176  make comp
+  177  make comp
+  178  git add .
+  179  git commit -m "done"
+  180  git push
+  181  make debug
+  182  make comp
+  183  chmod -R 777 ./ref.out
+  184  make comp
+  185  gdb bin/a.out
+  186  make clean
+  187  make debug
+  188  make comp
+  189  gdb bin/a.out
+  190  make comp
+  191  map comp
+  192  make comp
+  193  gdb bin/a.out
+  194  make debug
+  195  gdb bin/a.out
+  196  make debug
+  197  make comp
+  198  make debug
+  199  make comp
+  200  make comp
+  201  make comp
+  202  make comp
+  203  make debug
+  204  make comp
+  205  history > shell_logs.txt
+  206  vim shell_logs.txt
+  207  hgit clone https://github.com/cs429-sp2026/swerdtfyghujkl.git
+  208  git clone https://github.com/cs429-sp2026/swerdtfyghujkl.git
+  209  rm -rf swerdtfyghujkl
+  210  https://github.com/cs429-sp2026/-dxfcgvhbjnk.git
+  211  git clone https://github.com/cs429-sp2026/-dxfcgvhbjnk.git
+  212  git clone https://github.com/cs429-sp2026/-dxfcgvhbjnk.git
+  213  rm -rf -dxfcgvhbjnk
+  214  rm ./-dxfcgvhbjnk
+  215  ls
+  216  rm -rf ./-dxfcgvhbjnk
+  217  make stego
+  218  make stego
+  219  chmod -R 777 ./ref_order
+  220  make stego
+  221  git remote -v
+  222  make spinosaurus
+  223  make trike
+  224  gdb bin/orderlogs
+  225  make spinosaurus
+  226  make stego
+  227  make trike
+  228  gdb bin/orderlogs
+  229  make spinosaurus
+  230  make trike
+  231  gdb bin/orderlogs
+  232  make trike
+  233  make spinosaurus
+  234  make stego
+  235  history > shell_logs.txt
+  236  make stego
+  237  make spinosaurus
+  238  make stego
+  239  make spinosaurus
+  240  make trike
+  241  make stego
+  242  vim shell_logs.txt
+  243  git add .
+  244  git commit -m "donee finished : )"
+  245  git push
+  246  git remote -v
+  247  make  stego
+  248  make stego
+  249  chmod -R 777 ./ref_order
+  250  make stego
+  251  make spinosaurus
+  252  make trike
+  253  gdb bin/orderlogs
+  254  make stego
+  255  make stego
+  256  gdb bin/orderlogs
+  257  make stego
+  258  make spinosaurus
+  259  make trike
+  260  gdb bin/orderlogs
+  261  make trike
+  262  make stego
+  263  gdb bin/orderlogs
+  264  make stego
+  265  make spinosaurus
+  266  make trike
+  267  gdb bin/orderlogs
+  268  make stego
+  269  history >shell_logs.txt
+  270  vim shell_logs.txt
+  271  git add .
+  272  git commit -m "doneereeee"
+  273  git push
+  274  git clone https://github.com/sasik3/redftgyhjknm.git
+  275  rm -rf ./redftgyhjknm
+  276  ls
+  277  ssh-keygen -t ed25519
+  278  cat /u/sasik5/.ssh/id_ed25519.pub
+  279  make
+  280  ./mini_ci
+  281  ./mini_ci testcases/basic_add.s
+  282  make tests
+  283  make clean
+  284  make check
+  285  make clean
+  286  make debug
+  287  gdb mini_ci
+  288  chmod -R 777 mini_ci_reference
+  289  make check
+  290  make clean
+  291  make debug
+  292  gdb mini_ci
+  293  make debug
+  294  make check
+  295  gdb mini_ci
+  296  make debug
+  297  ./mini_ci testcases/err_ops2.s
+  298  mini_ci_reference testcases/err_ops2.s
+  299  make check
+  300  echo history > shell_logs.txt
+  301  vim shell_logs.txt
+  302  cat .shell_logs.txt
+  303  echo history > shell_logs.txt
+  304  cat shell_logs.txt
+  305  history > shell_logs.txt
+  306  cat shell_logs.txt
+  307  gdb mini_ci
+  308  touch gdb_logs.txt
+  309  git status
+  310  git add .
+  311  git status
+  312  git commit -m "done"
+  313  git status
+  314  git push
+  315  git status
+  316  rm -rf ./vghbjnkml
+  317  rm -rf /u/sasik5/vghbjnkml
+  318  touch ~/.gdbinit
+  319  ls -a
+  320  echo "set history save on" > ~/.gdbinit
+  321  ls -1
+  322  more ~/.gdbinit
+  323  echo "set history savee onn" > ~/.gdbinit
+  324  more ~/.gdbinit
+  325  echo "set history save on" > ~/.gdbinit
+  326  ls -a
+  327  more ~/.gdbinit
+  328  git clone git@github.com:sasik3/vghbjnkml.git
+  329  pwd
+  330  ls
+  331  pwd
+  332  make trike
+  333  make trike
+  334  bin/orderlogs testcases/all_new
+  335  bin/orderlogs -f testcases/all_new
+  336  make check
+  337  make stego
+  338  chmod -R 777 ./ref_order
+  339  make check
+  340  make stego
+  341  make spinosaurus
+  342  make trike
+  343  ref_order -f testcases/all_new
+  344  gdb bin/orderlogs
+  345  ref_order -f testcases/all_new
+  346  make stego
+  347  gdb bin/orderlogs
+  348  make spinosaurus
+  349  make trike
+  350  gdb bin/orderlogs
+  351  make trike
+  352  make stego
+  353  make trike
+  354  history
+  355  history > shell_logs.txt
+  356  cat shell_logs.txt
+  357  git add .
+  358  git status
+  359  git commit -m "finished
+  360  git status
+  361  git push
+  362  cat ./DELETE_AND_TURN_IN/
+  363  cat ./DELETE_AND_TURN_IN/
+  364   ./DELETE_AND_TURN_IN
+  365  rm -rf .//xrdcftghjk
+  366  rm -rf ./xrdcftghjk
+  367  rm -rf /u/sasik5/xrdcftghjk
+  368  git clone git@github.com:sasik3/xrdcftghjk.git
+  369  pwd
+  370  ls
+  371  git@github.com:sasik3/cfgvhbjnkm.git
+  372  ssh git@github.com:sasik3/cfgvhbjnkm.git
+  373  git clone git@github.com:sasik3/cfgvhbjnkm.git
+  374  pwd
+  375  make  cheba
+  376  chmod -R 777 ./reb_sb
+  377  chmod -R 777 ref_sb
+  378  make  cheba
+  379  make snarfs
+  380  make potbelly
+  381  bin/sb testcases/catdel.trace
+  382  bin/sb -i testcases/catdel.trace
+  383  ref_sb -f testcases/catdel.trace
+  384  ref_sb -i testcases/catdel.trace
+  385  gdb bin/sb
+  386  make cheba
+  387  gdb bin/sb
+  388  make potbelly
+  389  make snarfs
+  390  make potbelly
+  391  make cheba
+  392  history
+  393  history > shell_logs.txt
+  394  make cheba
+  395  make cheba
+  396  git add .
+  397  git status
+  398  git commit -m "done"
+  399  git push
+  400  gdb bin/orderlogs
+  401  make potbelly
+  402  gdb bin/sb
+  403  make cheba
+  404  make potbelly
+  405  gdb bin/sb
+  406  make snarfs
+  407  make potbelly
+  408  gdb bon/sb
+  409  gdb bin/sb
+  410  make
+  411  make potbelly
+  412  make cheba
+  413  git add .
+  414  git commit -m "done"
+  415  git push
+  416  git remote -v
+  417  make cheba
+  418  chmod -R 777 ref_sb
+  419  make cheba
+  420  make snarfs
+  421  make potbelly
+  422  bin/sb testcases/catdel.trace
+  423  bin/sb -i testcases/catdel.trace
+  424  gdb bin/sb
+  425  bin/sb -i testcases/catdel.trace
+  426  make cheba
+  427  gdb bin/sb
+  428  make snarfs
+  429  make potbelly
+  430  gdb bin/sb
+  431  make potbelly
+  432  make cheba
+  433  make cheba
+  434  make potbelly
+  435  make snarfs
+  436  make cheba
+  437  make potbelly
+  438  make cheba
+  439  history > shell_logs.txt
+  440  more shell_logs.txt
+  441  git status
+  442  git add .
+  443  git status
+  444  git commit -m "done"
+  445  git status
+  446  git push
+  447  git status
+  448   ./DELETE_AND_TURN_IN/
+  449   ./DELETE_AND_TURN_IN
+  450  cat ./DELETE_AND_TURN_IN
+  451  rm -rf /u/sasik5/xdfcgvhjkl
+  452  git clone git@github.com:sasik3/xdfcgvhjkl.git
+  453  pwd
+  454  ls 
+  455  ls -a
+  456  cd xdfcgvhjkl
+  457  ls
+  458  ls -a
+  459  pwd
+  460  rm -rf /u/sasik5/xdfcgvhjkl/f2025e2-e-master 4
+  461  ls
+  462  ls -a
+  463  make dopey
+  464  make happy
+  465  make doc
+  466  bin/second_trie testcases/dinosaurs.in
+  467  bin/second_trie -x testcases/dinosaurs.in
+  468  bin/trie_ref testcases/dinosaurs.in
+  469  trie_ref -x testcases/dinosaurs.in
+  470  chmod -R 777 trie_ref
+  471  trie_ref -x testcases/dinosaurs.in
+  472  gdb bin/second_trie
+  473  make dopey
+  474  gdb bin/second_trie
+  475  make happy
+  476  make snow
+  477  gdb bin/second_trie
+  478  make happy
+  479  make doc
+  480  gdb bin/second_trie
+  481  make dopey
+  482  make grumpy
+  483  make grumpy
+  484  make grumpy
+  485  make happy
+  486  make doc
+  487  make grumpy
+  488  history
+  489  history > shel_logs.txt
+  490  more shell_logs.txt
+  491  git add .
+  492  git status
+  493  git commit -m "done"
+  494  git status
+  495  git push
+  496  rm -rf /u/sasik5/awesrdtfyguhj
+  497  git clone git@github.com:sasik3/awesrdtfyguhj.git
+  498  pwd
+  499  ls -a
+  500  ls
+  501  make tamtoa
+  502  make tamatoa
+  503  chmod -R 77 ./trie_ref
+  504  make tamatoa
+  505  chmod -R 777 trie_ref
+  506  make tamatoa
+  507  make nalo
+  508  make maui
+  509  gdb bin/second_trie
+  510  make maui
+  511  make tamatoa
+  512  gdb bin/second_trie
+  513  make tamatoa
+  514  history > shell_logs.txt
